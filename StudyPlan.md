@@ -111,6 +111,22 @@
 
 </details>
 
+### Backend LLD and Development 2
+
+<details>
+<summary style="font-weight:bold; font-size:20px;">Click to expand questions list</summary>
+
+#### DSA Contest 2: Searching, Linked List, Stacks, Queues & Trees
+| Question Summary | YouTube | Source Code |
+| Question Summary | YouTube | Source Code |
+|--------------------|---------|--------------|
+| Task Scheduling | [🔗](#) | [💻](#) |
+| Leaset Capacity to Ship | [🔗](#) | [💻](#) |
+| Warmer Temperature | [🔗](#) | [💻](#) |
+| Balanced Binary Tree | [🔗](#) | [💻](#) |
+
+</details>
+
 ### Backend LLD and Development 3
 
 <details>
