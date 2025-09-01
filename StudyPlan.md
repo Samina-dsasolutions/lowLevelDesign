@@ -100,14 +100,21 @@
 <details>
 <summary style="font-weight:bold; font-size:20px;">Click to expand questions list</summary>
 
-#### DSA Contest 2: Searching, Linked List, Stacks, Queues & Trees
-| Question Summary | YouTube | Source Code |
+#### Backend LLD: OOP-1: Intro to LLD and OOP
+
 | Question Summary | YouTube | Source Code |
 |--------------------|---------|--------------|
-| Task Scheduling | [🔗](#) | [💻](#) |
-| Leaset Capacity to Ship | [🔗](#) | [💻](#) |
-| Warmer Temperature | [🔗](#) | [💻](#) |
-| Balanced Binary Tree | [🔗](#) | [💻](#) |
+| Create a basic class (Student) | [🔗](#) | [💻](#) |
+| Create related classes 1 - (Point and Rectangle) | [🔗](#) | [💻](#) |
+| Ref vs Instance 1 (OOPs Basics) | [🔗](#) | [💻](#) |
+| Ref vs Instance 2 (OOPs Basics) | [🔗](#) | [💻](#) |
+| Ref vs Instance 3 (OOPs Basics) | [🔗](#) | [💻](#) |
+| Create BankAccount class | [🔗](#) | [💻](#) |
+| Ref vs Instance 4 (OOPs Basics) | [🔗](#) | [💻](#) |
+| Ref vs Instance 5 (OOPs Basics) | [🔗](#) | [💻](#) |
+| Ref vs Instance 6 (OOPs Basics) | [🔗](#) | [💻](#) |
+| Bank Account Python Python LLD | [🔗](#) | [💻](#) |
+| Student Python Python LLD | [🔗](#) | [💻](#) |
 
 </details>
 
@@ -117,7 +124,7 @@
 <summary style="font-weight:bold; font-size:20px;">Click to expand questions list</summary>
 
 #### DSA Contest 2: Searching, Linked List, Stacks, Queues & Trees
-| Question Summary | YouTube | Source Code |
+
 | Question Summary | YouTube | Source Code |
 |--------------------|---------|--------------|
 | Task Scheduling | [🔗](#) | [💻](#) |
