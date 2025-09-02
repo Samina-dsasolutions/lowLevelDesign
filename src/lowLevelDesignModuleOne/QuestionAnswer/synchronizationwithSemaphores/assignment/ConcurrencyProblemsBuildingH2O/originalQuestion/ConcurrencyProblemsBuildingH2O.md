@@ -39,5 +39,9 @@ Explanation: "HOHHHO", "OHHHHO", "HHOHOH", "HOHHOH", "OHHHOH", "HHOOHH", "HOHOHH
 #### Source code : [ConcurrencyProblemsBuildingH2O.java](../../../../../../lowLevelDesignModuleOne/QuestionAnswer/synchronizationwithSemaphores/assignment/ConcurrencyProblemsBuildingH2O/originalQuestion/ConcurrencyProblemsBuildingH2O.java)
 
 
- <img src="../../../../../../../src/resources/images/lowLevelDesignModuleOne/QuestionAnswer/synchronizationwithSemaphores/assignment/ConcurrencyProblemsBuildingH2O/originalQuestion/step1.jpg" alt="My Image" width="400" />
+<img src="../../../../../../../src/resources/images/lowLevelDesignModuleOne/QuestionAnswer/synchronizationwithSemaphores/assignment/ConcurrencyProblemsBuildingH2O/originalQuestion/step1.jpg" alt="My Image" width="400" />
 <img src="../../../../../../../src/resources/images/lowLevelDesignModuleOne/QuestionAnswer/synchronizationwithSemaphores/assignment/ConcurrencyProblemsBuildingH2O/originalQuestion/step2.jpg" alt="My Image" width="400" />
+---
+
+### Similar Questions
+#### Question 1: : [ConcurrencyProblemAmusementParkRide](../similarQuestion/ConcurrencyProblemAmusementParkRide.md)
