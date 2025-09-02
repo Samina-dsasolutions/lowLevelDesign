@@ -1,0 +1,4 @@
+package lowLevelDesignModuleOne.QuestionAnswer.synchronizationwithSemaphores.assignment.ConcurrencyProblemsBuildingH2O.similarQuestion.ConcurrencyProblemAmusementParkRide;
+
+public class ConcurrencyProblemAmusementParkRide {
+}
