@@ -44,4 +44,4 @@ Explanation: "HOHHHO", "OHHHHO", "HHOHOH", "HOHHOH", "OHHHOH", "HHOOHH", "HOHOHH
 ---
 
 ### Similar Questions
-#### Question 1: : [ConcurrencyProblemAmusementParkRide](similarQuestion/ConcurrencyProblemAmusementParkRide/ConcurrencyProblemAmusementParkRide.md)
+#### Question 1: : [ConcurrencyProblemAmusementParkRide](../similarQuestion/ConcurrencyProblemAmusementParkRide/ConcurrencyProblemAmusementParkRide.md)
