@@ -41,8 +41,9 @@ Explanation: "HOHHHO", "OHHHHO", "HHOHOH", "HOHHOH", "OHHHOH", "HHOOHH", "HOHOHH
 # 📝 Problem Solutions
 ---
 ### Approach1 :
-#### Source code : [continousSumQuery.java](../src/continousSumQuery/approach_one/continousSumQuery.java)
+#### Source code : [ConcurrencyProblemsBuildingH2O.originalQuestion.java](../../../../../../../lowLevelDesignModuleOne.QuestionAnswer.synchronizationwithSemaphores.assignment.ConcurrencyProblemsBuildingH2O.originalQuestion.java)
 #### Time Complexity : o(qn)
 #### Space Complexity : o(1)
 
- <img src="../../../../../../../src/resources/images/lowLevelDesignModuleOne/QuestionAnswer/synchronizationwithSemaphores/assignment/ConcurrencyProblemsBuildingH2O/originalQuestion/step1.jpg" alt="My Image" width="400" /> 
+ <img src="../../../../../../../src/resources/images/lowLevelDesignModuleOne/QuestionAnswer/synchronizationwithSemaphores/assignment/ConcurrencyProblemsBuildingH2O/originalQuestion/step1.jpg" alt="My Image" width="400" />
+<img src="../../../../../../../src/resources/images/lowLevelDesignModuleOne/QuestionAnswer/synchronizationwithSemaphores/assignment/ConcurrencyProblemsBuildingH2O/originalQuestion/step2.jpg" alt="My Image" width="400" />
