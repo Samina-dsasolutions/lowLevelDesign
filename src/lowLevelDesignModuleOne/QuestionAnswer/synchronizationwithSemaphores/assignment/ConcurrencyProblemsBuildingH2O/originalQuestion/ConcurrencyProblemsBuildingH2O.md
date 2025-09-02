@@ -59,3 +59,9 @@ Explanation: "HOHHHO", "OHHHHO", "HHOHOH", "HOHHOH", "OHHHOH", "HHOOHH", "HOHOHH
 #### Question 7: : [ConcurrencyProblemSpaceStationAirlock](../similarQuestion/ConcurrencyProblemSpaceStationAirlock/ConcurrencyProblemSpaceStationAirlock.md)
 
 #### Question 8: : [ConcurrencyProblemTrafficLightIntersection](../similarQuestion/ConcurrencyProblemTrafficLightIntersection/ConcurrencyProblemTrafficLightIntersection.md)
+
+#### Question 9: : [ConcurrencyProblemBalancedDietMealPlanner](../similarQuestion/ConcurrencyProblemBalancedDietMealPlanner/ConcurrencyProblemBalancedDietMealPlanner.md)
+
+#### Question 10: : [ConcurrencyProblemMusicalQuartetCoordinator](../similarQuestion/ConcurrencyProblemMusicalQuartetCoordinator/ConcurrencyProblemMusicalQuartetCoordinator.md)
+
+
