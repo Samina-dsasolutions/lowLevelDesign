@@ -41,7 +41,7 @@ Explanation: "HOHHHO", "OHHHHO", "HHOHOH", "HOHHOH", "OHHHOH", "HHOOHH", "HOHOHH
 # 📝 Problem Solutions
 ---
 ### Approach1 :
-#### Source code : [ConcurrencyProblemsBuildingH2O.java](../../../../../../../../../../lowLevelDesignModuleOne/QuestionAnswer/synchronizationwithSemaphores/assignment/ConcurrencyProblemsBuildingH2O/originalQuestion/ConcurrencyProblemsBuildingH2O.java)
+#### Source code : [ConcurrencyProblemsBuildingH2O.java](../../../../../../../../../lowLevelDesignModuleOne/QuestionAnswer/synchronizationwithSemaphores/assignment/ConcurrencyProblemsBuildingH2O/originalQuestion/ConcurrencyProblemsBuildingH2O.java)
 #### Time Complexity : o(qn)
 #### Space Complexity : o(1)
 
