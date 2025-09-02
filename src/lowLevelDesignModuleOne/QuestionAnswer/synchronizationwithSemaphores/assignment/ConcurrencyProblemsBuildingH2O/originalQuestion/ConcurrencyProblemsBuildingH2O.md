@@ -1,10 +1,5 @@
-# Concurrency Problem - Building H2O (Solved)
+# Concurrency Problem - Building H2O
 
-Get your doubts resolved quickly with Chat GPT Help  
-**Check Chat GPT**  
-Using hints instead of Complete Solution is now penalty-free.
-
----
 
 ## Problem Statement
 
