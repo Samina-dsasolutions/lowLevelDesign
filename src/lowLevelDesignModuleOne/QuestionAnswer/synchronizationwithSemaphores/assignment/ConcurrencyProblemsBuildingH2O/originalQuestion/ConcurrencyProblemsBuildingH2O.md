@@ -44,4 +44,4 @@ Explanation: "HOHHHO", "OHHHHO", "HHOHOH", "HOHHOH", "OHHHOH", "HHOOHH", "HOHOHH
 ---
 
 ### Similar Questions
-#### Question 1: : [ConcurrencyProblemAmusementParkRide](src/lowLevelDesignModuleOne/QuestionAnswer/synchronizationwithSemaphores/assignment/ConcurrencyProblemsBuildingH2O/similarQuestion/ConcurrencyProblemAmusementParkRide/ConcurrencyProblemAmusementParkRide.md)
+#### Question 1: : [ConcurrencyProblemAmusementParkRide](similarQuestion/ConcurrencyProblemAmusementParkRide/ConcurrencyProblemAmusementParkRide.md)
