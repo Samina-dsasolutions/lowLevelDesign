@@ -45,3 +45,17 @@ Explanation: "HOHHHO", "OHHHHO", "HHOHOH", "HOHHOH", "OHHHOH", "HHOOHH", "HOHOHH
 
 ### Similar Questions
 #### Question 1: : [ConcurrencyProblemAmusementParkRide](../similarQuestion/ConcurrencyProblemAmusementParkRide/ConcurrencyProblemAmusementParkRide.md)
+
+#### Question 2: : [ConcurrencyProblemAssemblingRobots](../similarQuestion/ConcurrencyProblemAssemblingRobots/ConcurrencyProblemAssemblingRobots.md)
+
+#### Question 3: : [ConcurrencyProblemDNASequencing](../similarQuestion/ConcurrencyProblemDNASequencing/ConcurrencyProblemDNASequencing.md)
+
+#### Question 4: : [ConcurrencyProblemMoleculeAssembly](../similarQuestion/ConcurrencyProblemMoleculeAssembly/ConcurrencyProblemMoleculeAssembly.md)
+
+#### Question 5: : [ConcurrencyProblemNuclearReactorControl](../similarQuestion/ConcurrencyProblemNuclearReactorControl/ConcurrencyProblemNuclearReactorControl.md)
+
+#### Question 6: : [ConcurrencyProblemPizzaAssemblyLine](../similarQuestion/ConcurrencyProblemPizzaAssemblyLine/ConcurrencyProblemPizzaAssemblyLine.md)
+
+#### Question 7: : [ConcurrencyProblemSpaceStationAirlock](../similarQuestion/ConcurrencyProblemSpaceStationAirlock/ConcurrencyProblemSpaceStationAirlock.md)
+
+#### Question 8: : [ConcurrencyProblemTrafficLightIntersection](../similarQuestion/ConcurrencyProblemTrafficLightIntersection/ConcurrencyProblemTrafficLightIntersection.md)
