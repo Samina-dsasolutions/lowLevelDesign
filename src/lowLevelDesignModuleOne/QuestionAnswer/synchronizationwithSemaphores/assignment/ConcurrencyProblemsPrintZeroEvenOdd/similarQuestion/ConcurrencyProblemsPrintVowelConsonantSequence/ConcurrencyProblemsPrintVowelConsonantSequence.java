@@ -1,0 +1,4 @@
+package lowLevelDesignModuleOne.QuestionAnswer.synchronizationwithSemaphores.assignment.ConcurrencyProblemsPrintZeroEvenOdd.similarQuestion.ConcurrencyProblemsPrintVowelConsonantSequence;
+
+public class ConcurrencyProblemsPrintVowelConsonantSequence {
+}

@@ -45,24 +45,9 @@ Implement the `ZeroEvenOdd` class with the following functions:
 ---
 
 ### Similar Questions
-#### Question 1: : [ConcurrencyProblemAmusementParkRide](../similarQuestion/ConcurrencyProblemAmusementParkRide/ConcurrencyProblemAmusementParkRide.md)
+#### Question 1: : [ConcurrencyProblemsPrintLeaderFollowerSequence](../similarQuestion/CConcurrencyProblemsPrintLeaderFollowerSequence/ConcurrencyProblemsPrintLeaderFollowerSequence.md)
 
-#### Question 2: : [ConcurrencyProblemAssemblingRobots](../similarQuestion/ConcurrencyProblemAssemblingRobots/ConcurrencyProblemAssemblingRobots.md)
+#### Question 2: : [ConcurrencyProblemsPrintRGBSequence](../similarQuestion/ConcurrencyProblemsPrintRGBSequence/ConcurrencyProblemsPrintRGBSequence.md)
 
-#### Question 3: : [ConcurrencyProblemDNASequencing](../similarQuestion/ConcurrencyProblemDNASequencing/ConcurrencyProblemDNASequencing.md)
-
-#### Question 4: : [ConcurrencyProblemMoleculeAssembly](../similarQuestion/ConcurrencyProblemMoleculeAssembly/ConcurrencyProblemMoleculeAssembly.md)
-
-#### Question 5: : [ConcurrencyProblemNuclearReactorControl](../similarQuestion/ConcurrencyProblemNuclearReactorControl/ConcurrencyProblemNuclearReactorControl.md)
-
-#### Question 6: : [ConcurrencyProblemPizzaAssemblyLine](../similarQuestion/ConcurrencyProblemPizzaAssemblyLine/ConcurrencyProblemPizzaAssemblyLine.md)
-
-#### Question 7: : [ConcurrencyProblemSpaceStationAirlock](../similarQuestion/ConcurrencyProblemSpaceStationAirlock/ConcurrencyProblemSpaceStationAirlock.md)
-
-#### Question 8: : [ConcurrencyProblemTrafficLightIntersection](../similarQuestion/ConcurrencyProblemTrafficLightIntersection/ConcurrencyProblemTrafficLightIntersection.md)
-
-#### Question 9: : [ConcurrencyProblemBalancedDietMealPlanner](../similarQuestion/ConcurrencyProblemBalancedDietMealPlanner/ConcurrencyProblemBalancedDietMealPlanner.md)
-
-#### Question 10: : [ConcurrencyProblemMusicalQuartetCoordinator](../similarQuestion/ConcurrencyProblemMusicalQuartetCoordinator/ConcurrencyProblemMusicalQuartetCoordinator.md)
-
+#### Question 3: : [ConcurrencyProblemsPrintVowelConsonantSequence](../similarQuestion/ConcurrencyProblemsPrintVowelConsonantSequence/ConcurrencyProblemsPrintVowelConsonantSequence.md)
 
