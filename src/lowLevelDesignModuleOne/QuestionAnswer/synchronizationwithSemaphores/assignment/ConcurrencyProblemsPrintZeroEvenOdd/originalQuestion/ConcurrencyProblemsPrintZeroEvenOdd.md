@@ -45,7 +45,7 @@ Implement the `ZeroEvenOdd` class with the following functions:
 ---
 
 ### Similar Questions
-#### Question 1: : [ConcurrencyProblemsPrintLeaderFollowerSequence](../similarQuestion/CConcurrencyProblemsPrintLeaderFollowerSequence/ConcurrencyProblemsPrintLeaderFollowerSequence.md)
+#### Question 1: : [ConcurrencyProblemsPrintLeaderFollowerSequence](../similarQuestion/ConcurrencyProblemsPrintLeaderFollowerSequence/ConcurrencyProblemsPrintLeaderFollowerSequence.md)
 
 #### Question 2: : [ConcurrencyProblemsPrintRGBSequence](../similarQuestion/ConcurrencyProblemsPrintRGBSequence/ConcurrencyProblemsPrintRGBSequence.md)
 
