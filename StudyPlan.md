@@ -100,21 +100,23 @@
 <details>
 <summary style="font-weight:bold; font-size:20px;">Click to expand questions list</summary>
 
-#### Backend LLD: OOP-1: Intro to LLD and OOP
+#### Backend LLD: Concurrency-4: Synchronization with Semaphores
 
-| Question Summary | YouTube | Source Code |
-|--------------------|---------|--------------|
-| Create a basic class (Student) | [🔗](#) | [💻](#) |
-| Create related classes 1 - (Point and Rectangle) | [🔗](#) | [💻](#) |
-| Ref vs Instance 1 (OOPs Basics) | [🔗](#) | [💻](#) |
-| Ref vs Instance 2 (OOPs Basics) | [🔗](#) | [💻](#) |
-| Ref vs Instance 3 (OOPs Basics) | [🔗](#) | [💻](#) |
-| Create BankAccount class | [🔗](#) | [💻](#) |
-| Ref vs Instance 4 (OOPs Basics) | [🔗](#) | [💻](#) |
-| Ref vs Instance 5 (OOPs Basics) | [🔗](#) | [💻](#) |
-| Ref vs Instance 6 (OOPs Basics) | [🔗](#) | [💻](#) |
-| Bank Account Python Python LLD | [🔗](#) | [💻](#) |
-| Student Python Python LLD | [🔗](#) | [💻](#) |
+| Question Summary                                | YouTube | Source Code                                                                                                                                                                       |
+|-------------------------------------------------|---------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Synchronization using Semaphores -1             | [🔗](#) | [💻](#)                                                                                                                                                                           |
+| Synchronization using Semaphores -3             | [🔗](#) | [💻](#)                                                                                                                                                                           |
+| Synchronization using Semaphores -5             | [🔗](#) | [💻](#)                                                                                                                                                                           |
+| Concurrency Problems - Print In Order           | [🔗](#) | [💻](#)                                                                                                                                                                           |
+| Concurrency Problems - Print FooBar Alternately | [🔗](#) | [💻](#)                                                                                                                                                                           |
+| Synchronization using Semaphores -2             | [🔗](#) | [💻](#)                                                                                                                                                                           |
+| Synchronization using Semaphores -4             | [🔗](#) | [💻](#)                                                                                                                                                                           |
+| Synchronization using Semaphores -6             | [🔗](#) | [💻](#)                                                                                                                                                                           |
+| Concurrency Problems - Building H2O             | [🔗](#) | [💻](#)                                                                                                                                                                           |
+| Concurrency Problems - Print Zero Even Odd      | [🔗](#) | [💻ConcurrencyProblemsPrintZeroEvenOdd](lowLevelDesignModuleOne.QuestionAnswer.synchronizationwithSemaphores.assignment.ConcurrencyProblemsPrintZeroEvenOdd.originalQuestion.ConcurrencyProblemsPrintZeroEvenOdd.md) |
+| Foo Bar Python LLD                              | [🔗](#) | [💻](#)                                                                                                                                                                           |
+| Print in Order Python LLD                       | [🔗](#) | [💻](#)                                                                                                                                                                           |
+| rinting Zeros Even Odd Python LLD               | [🔗](#) | [💻](#)                                                                                                                                                                           |
 
 </details>
 
