@@ -127,14 +127,14 @@
 
 #### Backend LLD: Design Patterns: Builder
 
-| Question Summary | YouTube | Source Code                                                                                                                                                       |
-|--------------------|---------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Question Summary | YouTube | Source Code                                                                                                                                  |
+|--------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------|
 | Builder Message | [🔗](#) | [💻BuilderMessage](src/resources/questionList/lowLevelDesignModuleTwo/BackendLLDDesignPatternsBuilder/Assignment/BuilderMessage/ActualQuestion/BuilderMessage.md) |
-| Builder - Query | [🔗](#) | [💻](#)                                                                                                                                                           |
-| Builder Configuration | [🔗](#) | [💻](#)                                                                                                                                                           |
-| db_config | [🔗](#) | [💻](#)                                                                                                                                                           |
-| Mesage | [🔗](#) | [💻](#)                                                                                                                                                           |
-| Query Builder | [🔗](#) | [💻](#)                                                                                                                                                           |
+| Builder - Query | [🔗](#) | [💻BuilderQuery](src/resources/questionList/lowLevelDesignModuleTwo/BackendLLDDesignPatternsBuilder/Assignment/BuilderQuery/ActualQuestion/BuilderQuery.md) |                                                                                                                                                           |
+| Builder Configuration | [🔗](#) | [💻BuilderConfiguration](src/resources/questionList/lowLevelDesignModuleTwo/BackendLLDDesignPatternsBuilder/Assignment/BuilderConfiguration/ActualQuestion/BuilderConfiguration.md) |                                                                                                                                                           |
+| db_config | [🔗](#) | [💻db_config](src/resources/questionList/lowLevelDesignModuleTwo/BackendLLDDesignPatternsBuilder/AdditionalProblem/db_config/ActualQuestion/db_config.md) |                                                                                                                                                      |
+| Mesage | [🔗](#) | [💻Mesage](src/resources/questionList/lowLevelDesignModuleTwo/BackendLLDDesignPatternsBuilder/AdditionalProblem/Mesage/ActualQuestion/Mesage.md) |                                                                                                                                                      |
+| Query Builder | [🔗](#) | [💻QueryBuilder](src/resources/questionList/lowLevelDesignModuleTwo/BackendLLDDesignPatternsBuilder/AdditionalProblem/QueryBuilder/ActualQuestion/QueryBuilder.md) |                                                                                                                                                      |
 
 </details>
 
