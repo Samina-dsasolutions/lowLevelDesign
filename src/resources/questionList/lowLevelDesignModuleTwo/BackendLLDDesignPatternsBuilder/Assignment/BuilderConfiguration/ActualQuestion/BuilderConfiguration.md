@@ -17,3 +17,9 @@ The Builder pattern allows for step-by-step construction of complex objects whil
 1. Review the original class: You have been provided with a class that represents the database configuration `DatabaseConfiguration`. The class has a number of properties that are used to configure the database connection. Your task is to implement the Builder pattern to create instances of a class with the same properties.
 2. Create the builder class: Create a new class called `DatabaseConfigurationBuilder` that will implement the builder pattern. A dummy class has been provided for you to start with. Remember to annotate the class with the `@WithBuilder` annotation. The name does not matter as long as it is annotated.
 3. Test your implementation: A test case has been provided for you to test your implementation. Run the test case to ensure that your implementation is correct. This will pick the correct implementation of the builder class based on the `@WithBuilder` annotation.
+
+
+
+# 📝 Problem Solutions
+---
+### Source code : [BuilderConfiguration.java](../../../../../src/lowLevelDesignModuleTwo/QuestionAnswer/BackendLLDDesignPatternsBuilder/Assignment/BuilderConfiguration/ActualQuestion/BuilderConfiguration.java)
