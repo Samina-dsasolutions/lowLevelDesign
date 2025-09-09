@@ -16,3 +16,8 @@ The Builder pattern facilitates the step-by-step construction of complex objects
 1. Review the original class: You have been provided with a class named Query. This class represents SQL queries with different components. Your task is to implement the Builder pattern to create instances of a class with the same properties.
 2. Create the builder class: Develop a new class called QueryBuilder that will implement the Builder pattern for creating query instances. A starter class has been given for you to begin with. Don't forget to annotate the class with the @WithBuilder annotation. The actual name of the class doesn't matter, as long as it is annotated.
 3. Test your implementation: Test cases have been provided for you to verify the correctness of your implementation. Execute the test cases to ensure the accuracy of your code.
+
+
+# 📝 Problem Solutions
+---
+### Source code : [BuilderQuery.java](../../../../../../../../src/lowLevelDesignModuleTwo/QuestionAnswer/BackendLLDDesignPatternsBuilder/Assignment/BuilderQuery/ActualQuestion/BuilderQuery.java)

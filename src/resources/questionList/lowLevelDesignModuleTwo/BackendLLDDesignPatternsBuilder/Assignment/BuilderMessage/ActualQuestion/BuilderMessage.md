@@ -15,6 +15,11 @@ The pattern enables step-by-step construction while keeping object creation sepa
 
 ### Implementing the Builder Pattern
 
-1. Review the original class: You have been provided with a class named Message. This class represents different message types and their attributes. Your task is to implement the Builder pattern to create instances of a class with the same properties.
-2. Create the builder class: Create a new class called MessageBuilder that will implement the builder patter. A dummy class has been provided for you to start with. Remember to annotate the class with the @WithBuilder annotation. The name does not matter as long as it is annotated.
+1. Review the original class: You have been provided with a class named Message. This class represents different message types and their attributes. Your task is to implement the Builder pattern to create instances of a class with the same properties.
+2. Create the builder class: Create a new class called MessageBuilder that will implement the builder patter. A dummy class has been provided for you to start with. Remember to annotate the class with the WithBuilder annotation. The name does not matter as long as it is annotated.
 3. Test your implementation: Test cases has been provided for you to test your implementation. Run the test case to ensure that your implementation is correct.
+
+
+# 📝 Problem Solutions
+---
+### Source code : [BuilderMessage.java](../../../../../../../../src/lowLevelDesignModuleTwo/QuestionAnswer/BackendLLDDesignPatternsBuilder/Assignment/BuilderMessage/ActualQuestion/BuilderMessage.java)

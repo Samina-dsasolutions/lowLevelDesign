@@ -34,3 +34,7 @@ config = DatabaseBuilder()\ .with_database_url('jdbc:postgresql://localhost:5432
 2. Open the DatabaseConfiguration class and implement the setter methods in the DatabaseBuilder class.
 3. Implement the build method in the DatabaseBuilder class.
 4. Run the provided test cases in the TestDatabaseBuilder class to verify the correctness of your implementation.
+
+# 📝 Problem Solutions
+---
+### Source code : [db_config.java](../../../../../../../../src/lowLevelDesignModuleTwo/QuestionAnswer/BackendLLDDesignPatternsBuilder/AdditionalProblem/db_config/ActualQuestion/db_config.java)

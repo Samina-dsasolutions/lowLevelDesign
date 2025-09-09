@@ -47,3 +47,7 @@ message = MessageBuilder()\
 2. Open the Message class and implement the setter methods in the MessageBuilder class.
 3. Implement the build method in the MessageBuilder class.
 4. Run the provided test cases in the TestMessageBuilder class to verify the correctness of your implementation.
+
+# 📝 Problem Solutions
+---
+### Source code : [Mesage.java](../../../../../../../../src/lowLevelDesignModuleTwo/QuestionAnswer/BackendLLDDesignPatternsBuilder/AdditionalProblem/Mesage/ActualQuestion/Mesage.java)

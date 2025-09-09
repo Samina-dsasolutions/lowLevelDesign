@@ -55,3 +55,7 @@ query = QueryBuilder()\
 2. Open the Query class and implement the setter methods in the QueryBuilder class.
 3. Implement the build method in the QueryBuilder class.
 4. Run the provided test cases in the TestQueryBuilder class to verify the correctness of your implementation.
+
+# 📝 Problem Solutions
+---
+### Source code : [QueryBuilder.java](../../../../../../../../src/lowLevelDesignModuleTwo/QuestionAnswer/BackendLLDDesignPatternsBuilder/AdditionalProblem/QueryBuilder/ActualQuestion/QueryBuilder.java)
