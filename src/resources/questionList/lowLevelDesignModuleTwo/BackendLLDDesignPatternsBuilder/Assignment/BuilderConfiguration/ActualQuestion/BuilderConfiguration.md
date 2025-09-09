@@ -22,4 +22,4 @@ The Builder pattern allows for step-by-step construction of complex objects whil
 
 # 📝 Problem Solutions
 ---
-### Source code : [BuilderConfiguration.java](../../../../../../../../../../../../src/lowLevelDesignModuleTwo/QuestionAnswer/BackendLLDDesignPatternsBuilder/Assignment/BuilderConfiguration/ActualQuestion/BuilderConfiguration.java)
+### Source code : [BuilderConfiguration.java](../../../../../../../../../../src/lowLevelDesignModuleTwo/QuestionAnswer/BackendLLDDesignPatternsBuilder/Assignment/BuilderConfiguration/ActualQuestion/BuilderConfiguration.java)
