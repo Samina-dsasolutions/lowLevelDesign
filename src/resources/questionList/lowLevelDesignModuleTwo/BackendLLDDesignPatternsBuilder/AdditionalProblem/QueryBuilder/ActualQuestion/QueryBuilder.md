@@ -2,7 +2,7 @@
 
 ## Builder Pattern Implementation for Building Queries
 
-#### Problem Statement
+### Problem Statement
 
 You are tasked with developing a database management system that involves creating and executing SQL queries. 
 Queries can vary in complexity, involving different SELECT clauses, JOIN operations, WHERE conditions, and more. 
@@ -11,7 +11,7 @@ and challenging to modify. You should implement the Builder pattern to create in
 resulting in more maintainable and flexible code.
 
 
-#### Assignment
+### Assignment
 
 Your task is to implement the Builder pattern to construct query objects with different configurations. 
 The Builder pattern facilitates the step-by-step construction of complex objects while keeping the creation process separate from the main object
