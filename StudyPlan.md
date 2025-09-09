@@ -125,14 +125,16 @@
 <details>
 <summary style="font-weight:bold; font-size:20px;">Click to expand questions list</summary>
 
-#### DSA Contest 2: Searching, Linked List, Stacks, Queues & Trees
+#### Backend LLD: Design Patterns: Builder
 
-| Question Summary | YouTube | Source Code |
-|--------------------|---------|--------------|
-| Task Scheduling | [🔗](#) | [💻](#) |
-| Leaset Capacity to Ship | [🔗](#) | [💻](#) |
-| Warmer Temperature | [🔗](#) | [💻](#) |
-| Balanced Binary Tree | [🔗](#) | [💻](#) |
+| Question Summary | YouTube | Source Code                                                                                                                                                       |
+|--------------------|---------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Builder Message | [🔗](#) | [💻BuilderMessage](src/resources/questionList/lowLevelDesignModuleTwo/BackendLLDDesignPatternsBuilder/Assignment/BuilderMessage/ActualQuestion/BuilderMessage.md) |
+| Builder - Query | [🔗](#) | [💻](#)                                                                                                                                                           |
+| Builder Configuration | [🔗](#) | [💻](#)                                                                                                                                                           |
+| db_config | [🔗](#) | [💻](#)                                                                                                                                                           |
+| Mesage | [🔗](#) | [💻](#)                                                                                                                                                           |
+| Query Builder | [🔗](#) | [💻](#)                                                                                                                                                           |
 
 </details>
 

@@ -1,0 +1,6 @@
+
+practice like - production ready code
+goal is to create student object
+--before creating student object get the builder
+----student object creation ------
+under build method
