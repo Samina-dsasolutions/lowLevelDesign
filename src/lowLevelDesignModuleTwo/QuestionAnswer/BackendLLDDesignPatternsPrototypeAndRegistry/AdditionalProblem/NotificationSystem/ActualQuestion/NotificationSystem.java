@@ -1,0 +1,4 @@
+package lowLevelDesignModuleTwo.QuestionAnswer.BackendLLDDesignPatternsPrototypeAndRegistry.AdditionalProblem.NotificationSystem.ActualQuestion;
+
+public class NotificationSystem {
+}

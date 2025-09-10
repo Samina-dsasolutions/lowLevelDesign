@@ -1,0 +1,4 @@
+package lowLevelDesignModuleTwo.QuestionAnswer.BackendLLDDesignPatternsPrototypeAndRegistry.AdditionalProblem.Booking.ActualQuestion;
+
+public class Booking {
+}

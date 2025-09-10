@@ -1,0 +1,4 @@
+package lowLevelDesignModuleTwo.QuestionAnswer.BackendLLDDesignPatternsPrototypeAndRegistry.Assignment.PrototypeInvoice.ActualQuestion;
+
+public class PrototypeInvoice {
+}

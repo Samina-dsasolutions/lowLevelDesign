@@ -1,0 +1,4 @@
+package lowLevelDesignModuleTwo.QuestionAnswer.BackendLLDDesignPatternsPrototypeAndRegistry.AdditionalProblem.InvoiceManagement.ActualQuestion;
+
+public class InvoiceManagement {
+}

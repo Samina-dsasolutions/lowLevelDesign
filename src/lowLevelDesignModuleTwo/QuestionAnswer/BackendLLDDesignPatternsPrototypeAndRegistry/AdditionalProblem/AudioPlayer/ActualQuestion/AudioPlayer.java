@@ -1,0 +1,4 @@
+package lowLevelDesignModuleTwo.QuestionAnswer.BackendLLDDesignPatternsPrototypeAndRegistry.AdditionalProblem.AudioPlayer.ActualQuestion;
+
+public class AudioPlayer {
+}

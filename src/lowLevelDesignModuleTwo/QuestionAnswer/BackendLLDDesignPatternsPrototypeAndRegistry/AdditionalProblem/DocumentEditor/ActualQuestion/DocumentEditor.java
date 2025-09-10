@@ -1,0 +1,4 @@
+package lowLevelDesignModuleTwo.QuestionAnswer.BackendLLDDesignPatternsPrototypeAndRegistry.AdditionalProblem.DocumentEditor.ActualQuestion;
+
+public class DocumentEditor {
+}

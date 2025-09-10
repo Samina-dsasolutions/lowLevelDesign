@@ -1,0 +1,4 @@
+package lowLevelDesignModuleTwo.QuestionAnswer.BackendLLDDesignPatternsPrototypeAndRegistry.AdditionalProblem.DataAnalysis.ActualQuestion;
+
+public class DataAnalysis {
+}

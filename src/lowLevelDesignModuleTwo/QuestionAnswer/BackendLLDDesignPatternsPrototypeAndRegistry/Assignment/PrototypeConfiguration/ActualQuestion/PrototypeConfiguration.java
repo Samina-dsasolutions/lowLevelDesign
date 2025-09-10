@@ -1,0 +1,4 @@
+package lowLevelDesignModuleTwo.QuestionAnswer.BackendLLDDesignPatternsPrototypeAndRegistry.Assignment.PrototypeConfiguration.ActualQuestion;
+
+public class PrototypeConfiguration {
+}
