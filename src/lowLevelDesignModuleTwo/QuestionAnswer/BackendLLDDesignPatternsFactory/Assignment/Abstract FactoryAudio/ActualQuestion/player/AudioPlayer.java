@@ -1,6 +1,4 @@
-package lowLevelDesignModuleTwo.QuestionAnswer.BackendLLDDesignPatternsFactory.Assignment.FactoryAudio.ActualQuestion.player;
-
-import lowLevelDesignModuleTwo.QuestionAnswer.BackendLLDDesignPatternsFactory.Assignment.FactoryAudio.ActualQuestion.MediaFormat;
+package lowLevelDesignModuleTwo.QuestionAnswer.BackendLLDDesignPatternsFactory.Assignment.Abstract;
 
 public abstract class AudioPlayer {
     private int volume;
@@ -11,7 +9,7 @@ public abstract class AudioPlayer {
     }
 
 
-    public abstract MediaFormat supportsFormat();
+    public abstract lowLevelDesignModuleTwo.QuestionAnswer.BackendLLDDesignPatternsFactory.Assignment.Abstract.MediaFormat supportsFormat();
     public abstract void play();
     public abstract void pause();
     public abstract void stop();
