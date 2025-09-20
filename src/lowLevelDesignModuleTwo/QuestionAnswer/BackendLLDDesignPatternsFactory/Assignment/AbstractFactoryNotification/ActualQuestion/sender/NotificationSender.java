@@ -14,6 +14,6 @@ public abstract  class NotificationSender {
     }
 
     public abstract void send();
-    public abstract NotificationType notificationType()
+    public abstract NotificationType notificationType();
 
 }
