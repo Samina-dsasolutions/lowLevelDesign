@@ -1,0 +1,11 @@
+package lowLevelDesignModuleTwo.QuestionAnswer.BackendLLDDesignPatternsAdapterAndFacadeDesignPattern.Assignment.FacadeData.ActualQuestion.services;
+
+import lowLevelDesignModuleTwo.QuestionAnswer.BackendLLDDesignPatternsAdapterAndFacadeDesignPattern.Assignment.FacadeData.ActualQuestion.models.AnalysisAlgorithmConfig;
+import lowLevelDesignModuleTwo.QuestionAnswer.BackendLLDDesignPatternsAdapterAndFacadeDesignPattern.Assignment.FacadeData.ActualQuestion.models.AnalysisResult;
+import lowLevelDesignModuleTwo.QuestionAnswer.BackendLLDDesignPatternsAdapterAndFacadeDesignPattern.Assignment.FacadeData.ActualQuestion.models.PreProcessedData;
+
+public class AnalysisAlgorithmService {
+    public AnalysisResult applyAnalysisAlgorithm(PreProcessedData preProcessedData, AnalysisAlgorithmConfig analysisAlgorithmConfig) {
+        return new AnalysisResult();
+    }
+}
